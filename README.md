@@ -1,2 +1,2 @@
 # Nifty
-test for uploading images
+test for uploading images folder
